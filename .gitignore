@@ -1,0 +1,17 @@
+.env
+.env.example
+backend/.env
+backend/.env.example
+node_modules/
+dist/
+build/
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.cache/
+backend/vulntrack-v2.db*
+backend/data/

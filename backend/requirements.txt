@@ -1,0 +1,7 @@
+Flask>=3.0,<4.0
+Flask-Cors>=4.0,<6.0
+semgrep>=1.182,<2.0
+pytest>=8.0,<9.0
+PyJWT>=2.8,<3.0
+python-dotenv>=1.0,<2.0
+pip-audit>=2.7,<3.0
